@@ -4,3 +4,4 @@ this is release line 2-update.
 This is release update after feature 2- JIRA 2 branching.
 This is release update after feature/JIRA-02.
 This is release changes after feature/JIRA-03.
+This is second release changes after feature/JIRA-03.
